@@ -1,0 +1,9 @@
+﻿  Bishop.cpp
+  Game.cpp
+  King.cpp
+  Knight.cpp
+  Pawn.cpp
+  Queen.cpp
+  Rook.cpp
+  Generating Code...
+  ChessNew.vcxproj -> G:\Game\ChessNew\x64\Debug\ChessNew.exe
